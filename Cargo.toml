@@ -1,0 +1,11 @@
+[package]
+name = "notus_bip39"
+authors = ["Omer GOKSOY <goksoy.omer@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/goxoy/notus_bip39/"
+keywords = ["bip39"]
+description = "Notus Labs - bip39 keywords"
+
+[dependencies]
